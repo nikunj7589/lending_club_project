@@ -1,4 +1,3 @@
-#This is the main file.
-#feauture1
-#feature3
-#features
+#This is the main file
+# Calling function1.
+#checking features.
